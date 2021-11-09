@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DasarathanSampath
-- 👀 I’m interested in Javascript & VueJs frame work
-- 🌱 I’m currently learning Vue, C#, ASP.NET
-- 💞️ Currently I’m not looking for a collaborate.
+- I am a Mechanical Engineer by profession. 
+- 👀 I’m interested in various web tools like R programming, Javascript, ExpressJs, NodeJs, Firebase & VueJs to build my website of blogs.
+- 🌱 I’m currently learning Javascript & Python.
+- 💞️ Currently, I’m not looking for a collaboration.
 - 📫 How to reach me dasarathan.sampath@gmail.com
+- My web apps are https://thedatalks.in & https://indiaelectiondata.in
 
 <!---
 DasarathanSampath/DasarathanSampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
