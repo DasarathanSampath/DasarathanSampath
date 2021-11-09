@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript & Python.
 - 💞️ Currently, I’m not looking for a collaboration.
 - 📫 How to reach me dasarathan.sampath@gmail.com
-- My web apps are https://thedatalks.in & https://indiaelectiondata.in
+- My web apps are https://thedatatalks.in & https://indiaelectiondata.in
 
 <!---
 DasarathanSampath/DasarathanSampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
